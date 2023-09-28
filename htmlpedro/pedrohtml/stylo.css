@@ -1,0 +1,65 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1c1c1c;
+    color: #ffffff;
+}
+
+h1, h2, h3 {
+    color: #ff6f61;
+}
+
+a {
+    color: #ff6f61;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul, li {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul {
+    margin-top: 0.5em;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid #ff6f61;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+thead {
+    background-color: #ff6f61;
+    color: #1c1c1c;
+}
+
+em {
+    color: #ff6f61;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background: #ff6f61;
+}
+
+img {
+    border: 1px solid #ff6f61;
+}
+.descricao {
+    margin-right: 50%;
+}
+
+/* Adicionar mais estilos conforme necessário */
